@@ -1,5 +1,5 @@
 # Оценка проектной работы
-**Предсказания верны на `77,5%`.**
+**Предсказания верны на `78,7%`.**
 
 
-![Screenshot_4](https://github.com/WaterPrima/Kaggle/assets/113846114/ada5596c-a19a-4c8b-8504-bfe35daba093)
+![Screenshot_6](https://github.com/WaterPrima/Kaggle/assets/113846114/c6dc8bbd-badf-4a08-babd-2eeb4df835bb)
